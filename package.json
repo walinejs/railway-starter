@@ -1,0 +1,21 @@
+{
+  "name": "railway-starter",
+  "private": true,
+  "version": "0.0.0-development",
+  "description": "An Waline starter repository for deploy to Railway.app",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walinejs/railway-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walinejs/railway-starter/issues"
+  },
+  "homepage": "https://github.com/walinejs/railway-starter#readme",
+  "dependencies": {
+    "@waline/vercel": "^1.5.0"
+  }
+}
