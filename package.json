@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/walinejs/railway-starter#readme",
   "dependencies": {
-    "@waline/vercel": "1.26.2"
+    "@waline/vercel": "1.26.3"
   }
 }
